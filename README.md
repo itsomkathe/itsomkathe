@@ -1,19 +1,8 @@
-- 👋 Hi, I’m @itsomkathe
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning ReactJS and NodeJS
+# 👋 Hi, I’m Om
+👀 I’m interested in full-stack development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omkathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="omkathe" height="30" width="40" /></a>
-<a href="https://instagram.com/omkatheofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="omkatheofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/itsomkathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="itsomkathe" height="30" width="40" /></a>
-<a href="https://fb.com/omisonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="omisonline" height="30" width="40" /></a>
+🌱 I’m currently learning ReactJS and NodeJS
 
-<h3 align="left">Review my skills:</h3>
-
-<a href="https://www.leetcode.com/omkathe26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omkathe26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/omkathe26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="omkathe26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omkathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="omkathe" height="30" width="40" /></a>
 
 </p>
 
@@ -30,10 +19,20 @@
 
 <h3 align="left">Tools:</h3>
 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluent/35/000000/adobe-photoshop.png"/> </a> 
  
 </p>
+<h3 align="left">Review my skills:</h3>
 
+<a href="https://www.leetcode.com/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="omkathe26" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="omkathe26" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/omkathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="omkathe" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omkathe" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://instagram.com/omkatheofficial" target="blank"><img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/itsomkathe" target="blank"><img src="https://img.icons8.com/fluent/35/000000/twitter.png"/></a>
+<a href="https://fb.com/omisonline" target="blank"><img src="https://img.icons8.com/fluent/35/000000/facebook-new.png"/></a>
 
 
 
