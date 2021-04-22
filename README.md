@@ -33,7 +33,7 @@
 <h3 align="left">Stats:</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsomkathe&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsomkathe&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
