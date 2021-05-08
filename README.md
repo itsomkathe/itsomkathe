@@ -23,8 +23,7 @@
 <a href="https://www.leetcode.com/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="omkathe26" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="omkathe26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/omkathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="omkathe" height="30" width="40" /></a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 <h3 align="left">Stats:</h3>
