@@ -25,10 +25,7 @@
 <a href="https://codeforces.com/profile/omkathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="omkathe" height="30" width="40" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkathe" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://instagram.com/omkatheofficial" target="blank"><img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/itsomkathe" target="blank"><img src="https://img.icons8.com/fluent/35/000000/twitter.png"/></a>
-<a href="https://fb.com/omisonline" target="blank"><img src="https://img.icons8.com/fluent/35/000000/facebook-new.png"/></a>
+
 
 <h3 align="left">Stats:</h3>
 
