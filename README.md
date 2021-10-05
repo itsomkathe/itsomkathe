@@ -1,35 +1,19 @@
-# 👋 Hi, I’m Om
-👀 I’m interested in full-stack development
-
-🌱 I’m currently learning ReactJS and NodeJS
-
-
+<h1 align = "center">👋 Hello, I'm Om</h1>
+<p align = "center">
+ 📌 I'm currently working on <a href = "https://github.com/itsomkathe/Voicey">Voicey</a>
 </p>
+<h3 align = "center">Languages, Frameworks and Tools</h3>
+<p align="center"> <img src="./Icons/javascript.svg" alt="javascript" width="40" height="40"/> <img src="./Icons/java.svg" alt="java" width="40" height="40"/> <img src="./Icons/python.svg" alt="python" width="40" height="40"/> <img src="./Icons/html.svg" alt="html5" width="40" height="40"/> <img src="./Icons/css.svg" alt="css3" width="40" height="40"/> 
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
+<img src="./Icons/react.svg" alt="react" width="40" height="40"/> <img src="./Icons/node-js.svg" alt="nodejs" width="40" height="40"/> <img src="./Icons/express.png" alt="express" width="40" height="40"/> <img src="./Icons/webpack.svg" alt="express" width="40" height="40"/>
  </p>
-
-<p align = "left">
- <h3 align="left">Frameworks & Libraries:</h3>
-
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- 
+<h3 align="center">Coding Profiles</h3><p align = "center">
+<a href="https://www.leetcode.com/omkathe26" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode" /></a> <ahref="https://auth.geeksforgeeks.org/user/omkathe26" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/GeeksForGeeks-%2312100E.svg?&style=for-the-badge&logo=geeksforgeeks" /></a>
+</p><h3 align="center">Connect with me</h3><p align = "center"><a href="https://twitter.com/itsomkathe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter" /></a> <a href="https://www.instagram.com/omkatheofficial/?hl=en" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a> <a href="https://www.facebook.com/omisonline/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook" /></a> <a href="https://twitter.com/HamiltonPharmD" target="_blank"> <a href="https://www.linkedin.com/in/omkathe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin" /></a>
 </p>
-<h3 align="left">Review my skills:</h3>
-
-<a href="https://www.leetcode.com/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="omkathe26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/omkathe26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="omkathe26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omkathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="omkathe" height="30" width="40" /></a>
-
-
-
-<h3 align="left">Stats:</h3>
-
-
-[![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsomkathe&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img   width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsomkathe&theme=nord&hide_border=true&include_all_commits=true&hide_title=true" />
+</p>
 
 
 <!---
