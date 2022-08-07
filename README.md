@@ -1,5 +1,6 @@
 <h3>Hello! 👋<br>I'm Om Kathe,<br>Software Engineer</h3>
-<h6>Writing code since 2017. I build things 🛠️ with <a href="https://www.javascript.com/">JavaScript</a>, solve problems using <a href="https://www.java.com/en/">Java</a>. Started as a frontend guy with <a href="https://reactjs.org/">React</a>, now trying to dig deeper into backend with <a href="https://nodejs.org/en/">NodeJS</a>.</h6>
+<h6>Writing code since 2017. I build things 🛠️ with <a href="https://www.javascript.com/">JavaScript</a>, solve problems using <a href="https://www.java.com/en/">Java</a>.
+<br/> Started as a frontend guy with <a href="https://reactjs.org/">React</a>, now trying to dig deeper into backend with <a href="https://nodejs.org/en/">NodeJS</a>.</h6>
 
 <h4>Coding Profiles</h4>
 <h6><a href="https://www.leetcode.com/omkathe26">Leetcode</a> • <a href="https://auth.geeksforgeeks.org/user/omkathe26">GeeksForGeeks</a></h6>
