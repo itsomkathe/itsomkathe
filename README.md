@@ -1,22 +1,21 @@
-<h1 align = "center">👋 Hello, I'm Om</h1>
-<p align = "center">
- 📌 I'm currently working on <a href = "https://github.com/itsomkathe/Voicey">Voicey</a>
-</p>
-<h3 align = "center">Languages, Frameworks and Tools</h3>
-<p align="center"> <img src="./Icons/javascript.svg" alt="javascript" width="40" height="40"/> <img src="./Icons/java.svg" alt="java" width="40" height="40"/> <img src="./Icons/python.svg" alt="python" width="40" height="40"/> <img src="./Icons/html.svg" alt="html5" width="40" height="40"/> <img src="./Icons/css.svg" alt="css3" width="40" height="40"/> 
-</p>
-<p align = "center">
-<img src="./Icons/react.svg" alt="react" width="40" height="40"/> <img src="./Icons/node-js.svg" alt="nodejs" width="40" height="40"/> <img src="./Icons/express.png" alt="express" width="40" height="40"/> <img src="./Icons/webpack.svg" alt="express" width="40" height="40"/>
-</p>
-<h3 align="center">Coding Profiles</h3><p align = "center">
-<a href="https://www.leetcode.com/omkathe26" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode" /></a> <ahref="https://auth.geeksforgeeks.org/user/omkathe26" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/GeeksForGeeks-%2312100E.svg?&style=for-the-badge&logo=geeksforgeeks" /></a>
-</p><h3 align="center">Connect with me</h3><p align = "center"><a href="https://twitter.com/itsomkathe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter" /></a> <a href="https://www.instagram.com/omkatheofficial/?hl=en" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a> <a href="https://www.facebook.com/omisonline/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook" /></a> <a href="https://twitter.com/HamiltonPharmD" target="_blank"> <a href="https://www.linkedin.com/in/omkathe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin" /></a>
-</p>
-<p align = "center">
-  <img   width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsomkathe&theme=nord&hide_border=true&include_all_commits=true&hide_title=true" />
-</p>
+<h3>Hello! 👋<br>I'm Om Kathe,<br>Software Engineer</h3>
+<h6>Writing code since 2017. I build things 🛠️ with <a href="https://www.javascript.com/">JavaScript</a>, solve problems using <a href="https://www.java.com/en/">Java</a>. Started as a frontend guy with <a href="https://reactjs.org/">React</a>, now trying to dig deeper into backend with <a href="https://nodejs.org/en/">NodeJS</a>.</h6>
 
+<h4>Coding Profiles</h4>
+<h6><a href="https://www.leetcode.com/omkathe26">Leetcode</a> • <a href="https://auth.geeksforgeeks.org/user/omkathe26">GeeksForGeeks</a></h6>
 
+<h4>Reach Out to Me</h4>
+<h6><a href="https://www.linkedin.com/in/omkathe/">LinkedIn</a> • <a href="https://www.instagram.com/omkatheofficial/">Instagram</a> • <a href="https://www.facebook.com/omisonline/">Facebook</a></h6>
+
+<!-- BLOG-POST-LIST:START
+- [Endocrine&lpar;Hormonal&rpar; Disruptors in Grooming Products and Cosmetics](https://stephenajulu.com/blog/endocrine-hormonal-disruptors-in-grooming-products-and-cosmetics/)
+- [Wallpaper of The Week 1](https://stephenajulu.com/blog/wallpaper-of-the-week-1/)
+- [Keep Your Work Space Clean, Sleek and Tidy with This Minimal Leather Mat](https://stephenajulu.com/blog/keep-your-work-space-clean-sleek-and-tidy-with-this-minimal-leather-mat/)
+- [8 Wallpapers That Will Look Perfect On Your Phone](https://stephenajulu.com/blog/8-wallpapers-that-will-look-perfect-on-your-phone/)
+- [My Favorite Fonts](https://stephenajulu.com/blog/5-favorite-fonts/)
+- [Laptop Buying Guide](https://stephenajulu.com/blog/laptop-buying-guide/)
+- [All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and Web 3 Identities](https://stephenajulu.com/blog/all-about-cryptocurrency-wallets-what-they-are-how-to-keep-them-safe-and-web-3-identities/)
+ BLOG-POST-LIST:END -->
 <!---
 itsomkathe/itsomkathe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
