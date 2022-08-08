@@ -3,7 +3,7 @@
 <br/> Started as a frontend guy with <a href="https://reactjs.org/">React</a>, now trying to dig deeper into backend with <a href="https://nodejs.org/en/">NodeJS</a>.</h6>
 
 <h4>Coding Profiles</h4>
-<h6><a href="https://www.leetcode.com/omkathe26">Leetcode</a> • <a href="https://auth.geeksforgeeks.org/user/omkathe26">GeeksForGeeks</a></h6>
+<h6><a href="https://www.leetcode.com/omkathe26">Leetcode</a> • <a href="https://auth.geeksforgeeks.org/user/omkathe26">GeeksForGeeks</a> • <a href="https://www.hackerrank.com/omkathe">HackerRank</a></h6>
 
 <h4>Reach Out to Me</h4>
 <h6><a href="https://www.linkedin.com/in/omkathe/">LinkedIn</a> • <a href="https://www.instagram.com/omkatheofficial/">Instagram</a> • <a href="https://www.facebook.com/omisonline/">Facebook</a></h6>
